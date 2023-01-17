@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079262397140",
+    "project_id": "myloginapplication-c1810",
+    "storage_bucket": "myloginapplication-c1810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079262397140:android:feff7e144fb1ffa7d1b141",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079262397140-8vdfjnnlpki45is7h4taf7ref6dau2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxDRLC7nYYe6awGKBNyuoit3SdSxN7ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079262397140-8vdfjnnlpki45is7h4taf7ref6dau2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
